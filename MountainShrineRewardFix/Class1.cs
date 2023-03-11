@@ -11,8 +11,6 @@ using UnityEngine;
 using RiskOfOptions;
 using RiskOfOptions.Options;
 using RiskOfOptions.OptionConfigs;
-using R2API.Utils;
-using R2API;
 using System.Runtime.CompilerServices;
 
 [module: UnverifiableCode]
@@ -24,8 +22,6 @@ namespace BossDropRewardDelay
 {
     [BepInPlugin(Guid, FormattedModName, Version)]
     [BepInDependency("com.rune580.riskofoptions", BepInDependency.DependencyFlags.SoftDependency)]
-    [BepInDependency("com.bepis.r2api")]
-    [NetworkCompatibility(CompatibilityLevel.NoNeedForSync, VersionStrictness.DifferentModVersionsAreOk)]
     public class Plugin : BaseUnityPlugin
     {
         public const string ModName = "BossDropRewardDelay",
