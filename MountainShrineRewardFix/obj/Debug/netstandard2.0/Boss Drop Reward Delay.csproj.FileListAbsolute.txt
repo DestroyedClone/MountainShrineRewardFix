@@ -1,0 +1,23 @@
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\AllowNullAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\DisallowNullAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\DoesNotReturnAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\DoesNotReturnIfAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\MaybeNullAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\MaybeNullWhenAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\MemberNotNullAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\MemberNotNullWhenAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\NotNullAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\NotNullIfNotNullAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\NuGet\5BF9CAF97AE3349030ACA1B781EFF976E402C570\Nullable\1.3.0\Nullable\NotNullWhenAttribute.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.csproj.AssemblyReference.cache
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.AssemblyInfoInputs.cache
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.AssemblyInfo.cs
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.csproj.CoreCompileInputs.cache
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\bin\Debug\netstandard2.0\Boss Drop Reward Delay.deps.json
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\bin\Debug\netstandard2.0\Boss Drop Reward Delay.dll
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\bin\Debug\netstandard2.0\Boss Drop Reward Delay.pdb
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\bin\Debug\netstandard2.0\RiskOfOptions.dll
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.csproj.CopyComplete
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.dll
+C:\Users\destr\source\repos\MountainShrineRewardFix\MountainShrineRewardFix\obj\Debug\netstandard2.0\Boss Drop Reward Delay.pdb
