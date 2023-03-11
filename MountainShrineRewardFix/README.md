@@ -6,21 +6,14 @@ The configuration defaults to 0.3s, but the values can be adjusted by the user i
 
 You can also configure how many items can be dropped after each delay in the options menu.
 
-![preview](https://raw.githubusercontent.com/DestroyedClone/PoseHelper/master/MountainShrineRewardFix/preview.gif)
+![preview](https://raw.githubusercontent.com/DestroyedClone/MountainShrineRewardFix/main/MountainShrineRewardFix/preview.gif)
+
+## ModCompat
+* [Soft] Risk of Options
 
 ## Credits
 
 Moffein - IL code, consultation
-
-## Changelog
-
-### 1.2.0
-
-- Use RiskOfOptions to expose the mod config
-- Added an option to drop batches of items
-
-### 1.1.0
-
-- Added a command that allows for mid-run adjustment of the delay
+JeanJPNM - Fixes and improvements
 
 > Written with [StackEdit](https://stackedit.io/).

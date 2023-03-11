@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿### 1.2.0
 
-namespace Boss_Drop_Reward_Delay
-{
-    class CHANGELOG
-    {
-    }
-}
+- Use RiskOfOptions to expose the mod config
+- Added an option to drop batches of items
+- Removed command
+
+### 1.1.0
+
+- Added a command that allows for mid-run adjustment of the delay
