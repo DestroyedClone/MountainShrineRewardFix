@@ -12,6 +12,8 @@ using RiskOfOptions;
 using RiskOfOptions.Options;
 using RiskOfOptions.OptionConfigs;
 using R2API.Utils;
+using R2API;
+using System.Runtime.CompilerServices;
 
 [module: UnverifiableCode]
 #pragma warning disable CS0618 // Type or member is obsolete
@@ -21,7 +23,7 @@ using R2API.Utils;
 namespace BossDropRewardDelay
 {
     [BepInPlugin(Guid, FormattedModName, Version)]
-    [BepInDependency("com.rune580.riskofoptions")]
+    [BepInDependency("com.rune580.riskofoptions", BepInDependency.DependencyFlags.SoftDependency)]
     [BepInDependency("com.bepis.r2api")]
     [NetworkCompatibility(CompatibilityLevel.NoNeedForSync, VersionStrictness.DifferentModVersionsAreOk)]
     public class Plugin : BaseUnityPlugin
@@ -44,6 +46,15 @@ namespace BossDropRewardDelay
 
             IL.RoR2.BossGroup.DropRewards += BossGroup_DropRewards;
 
+            if (BepInEx.Bootstrap.Chainloader.PluginInfos.ContainsKey("com.rune580.riskofoptions"))
+            {
+                ModCompat_RiskOfOptions();
+            }
+        }
+
+        [MethodImpl(MethodImplOptions.NoInlining | MethodImplOptions.NoOptimization)]
+        private static void ModCompat_RiskOfOptions()
+        {
             ModSettingsManager.AddOption(new SliderOption(cfgSpawnDelay, new SliderConfig()
             {
                 min = 0.01f,
@@ -57,6 +68,7 @@ namespace BossDropRewardDelay
                 max = 50,
             }), Guid, FormattedModName);
         }
+
 
         private void BossGroup_DropRewards(MonoMod.Cil.ILContext il)
         {
