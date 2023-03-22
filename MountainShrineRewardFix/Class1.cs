@@ -28,7 +28,7 @@ namespace BossDropRewardDelay
         FormattedModName = "Boss Drop Reward Delay",
         Author = "DestroyedClone",
         Guid = "com." + Author + "." + ModName,
-        Version = "1.2.0";
+        Version = "1.2.1";
 
         public static ConfigEntry<float> cfgSpawnDelay;
         public static ConfigEntry<int> cfgBatchSize;
@@ -90,6 +90,7 @@ namespace BossDropRewardDelay
                     component.num = scaledRewardCount;
                     component.pickupIndex = pickupIndex;
                     component.bossDrops = self.bossDrops;
+                    component.bossDropTables = self.bossDropTables;
                     component.bossDropChance = self.bossDropChance;
                     component.dropPosition = self.dropPosition;
                     component.vector = vector;
